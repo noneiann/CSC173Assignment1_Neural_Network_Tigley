@@ -62,8 +62,10 @@ Sample 9: Predicted=Malignant (1.000), Actual=Malignant
 Sample 10: Predicted=Benign (0.006), Actual=Benign
 ```
 
+![alt text](image-2.png)
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-3.png)
 
 ## Team Collaboration
 
