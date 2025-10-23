@@ -33,6 +33,38 @@ I selected two features from the dataset for the input layer of the network.
 
 ## Results & Visualization
 
+```
+TRAINING SET RESULTS
+
+Training Accuracy: 94.95%
+Correct predictions: 432/455
+```
+
+```
+TESTING SET RESULTS
+
+Testing Accuracy: 93.86%
+Correct predictions: 107/114
+```
+
+```
+FIRST 10 TEST PREDICTIONS
+
+Sample 1: Predicted=Malignant (1.000), Actual=Malignant
+Sample 2: Predicted=Malignant (0.999), Actual=Malignant
+Sample 3: Predicted=Benign (0.008), Actual=Benign
+Sample 4: Predicted=Malignant (0.997), Actual=Malignant
+Sample 5: Predicted=Malignant (1.000), Actual=Malignant
+Sample 6: Predicted=Benign (0.032), Actual=Benign
+Sample 7: Predicted=Benign (0.009), Actual=Benign
+Sample 8: Predicted=Benign (0.011), Actual=Benign
+Sample 9: Predicted=Malignant (1.000), Actual=Malignant
+Sample 10: Predicted=Benign (0.006), Actual=Benign
+```
+
+![alt text](image.png)
+![alt text](image-1.png)
+
 ## Team Collaboration
 
 I am the only member so I contributed to 100% of the output:
