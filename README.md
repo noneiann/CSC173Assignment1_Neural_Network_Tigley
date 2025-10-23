@@ -47,7 +47,7 @@ I am the only member so I contributed to 100% of the output:
 
 1. Clone the GitHub repository:
    ```
-   git clone [repository_url]
+   git clone https://github.com/noneiann/CSC173Assignment1_Neural_Network_Tigley.git
    ```
 2. Open the Jupyter notebook or Colab file.
 3. Run all cells sequentially.
